@@ -59,9 +59,11 @@ def job():
     menu_url = 'https://apps.wixrestaurants.com/?type=wixmenus.client&pageId=lhq2p&compId=TPASection_ije2yufi&viewerCompId=TPASection_ije2yufi&siteRevision=5&viewMode=site&deviceType=desktop&locale=de&tz=Europe%2FZurich&regionalLanguage=de&width=980&height=2041&instance=qTGD4dhBOno1RekehPd-2J254--x7usASxWFKCFtU5g.eyJpbnN0YW5jZUlkIjoiMDhlZDdiY2EtMzFiMS00ZmQwLTgyZWItMTkzOTQ5YzM4OTNiIiwiYXBwRGVmSWQiOiIxM2MxNDAyYy0yN2YyLWQ0YWItNzQ2My1lZTdjODllMDc1NzgiLCJtZXRhU2l0ZUlkIjoiODZhNmU0OTAtM2RjZS00ZGE4LTliOGYtZjc2OTkyNDRmYzlkIiwic2lnbkRhdGUiOiIyMDI0LTEwLTAzVDExOjMyOjMyLjIxOVoiLCJ2ZW5kb3JQcm9kdWN0SWQiOiJyZXN0X3BybyIsImRlbW9Nb2RlIjpmYWxzZSwib3JpZ2luSW5zdGFuY2VJZCI6IjdiNjI4Njg3LTFjNGEtNDY3OC1iYTJjLWEyNzBmYzZhNGRlZiIsImFpZCI6ImM4ODgxZWNhLWY5ODQtNGZmMy05YjNmLWI0N2Y5OTU1ZGNjYSIsImJpVG9rZW4iOiI4ZTRiOWY1YS0wYzdmLTAyNzgtMTk2NC1lZTUwZGI4Nzc1YTYiLCJzaXRlT3duZXJJZCI6ImE2ZjdmZTNjLWRhOTEtNDZmZi1hNDY5LWI0N2M5M2YxZTQ3OCJ9&currency=CHF&currentCurrency=CHF&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22host%22%3A%22VIEWER%22%2C%22bsi%22%3A%2222713403-2c3d-41dc-a6e0-b0208279e2b2%7C1%22%2C%22siteRevision%22%3A%225%22%2C%22branchId%22%3A%22f8d1d120-7878-4685-8ef0-11e7465881d9%22%2C%22renderingFlow%22%3A%22NONE%22%2C%22language%22%3A%22de%22%2C%22locale%22%3A%22de-ch%22%2C%22BSI%22%3A%2222713403-2c3d-41dc-a6e0-b0208279e2b2%7C1%22%7D&currentRoute=.%2Fmenu&target=_top&section-url=https%3A%2F%2Fwww.frankysbbq.com%2Fmenu%2F&vsi=a464f0b8-8cdd-4d6e-a62d-75f5effad5b0'
 
     recipients = [
-        "david.pires2003.dp@gmail.com", 
         "marcel.voegeli@endress.com",
-        "david.pires@endress.com"
+        "david.pires@endress.com",
+        "elia.mensch@endress.com",
+        "tim.sehburger@endress.com",
+        "timo.jaeger@endress.com"
     ]
     
     try:
