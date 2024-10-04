@@ -72,7 +72,7 @@ def job():
     except Exception as e:
         print(f"Fehler: {e}")
 
-schedule.every().monday.at("07:00:00").do(job)
+schedule.every().friday.at("11:00:00").do(job)
 
 
 
